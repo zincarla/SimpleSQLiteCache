@@ -4,7 +4,7 @@ A simple module for connecting to SQLite as a generic cache store. Mostly intend
 
 ## Usage
 
-Download the right .Net binaries for SQLite database for your version of PowerShell. (Only tested on Windows Desktop PSVersion 5 and CLRVersion 4)
+Download the right .Net binaries for SQLite database for your version of PowerShell. (Only tested on Windows Desktop PSVersion 5 and CLRVersion 4) I wrote a [blog article](https://ziviz.us/WP/2025/05/14/powershell-and-sqlite/) with more info on getting the SQLite DLL happy.
 
 Unblock and extract the SQLite binaries somewhere. Drop the PSM1 file into the SQLite directory, then you should be good to go.
 
